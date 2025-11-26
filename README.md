@@ -17,25 +17,27 @@
 
 (Coming soon: JS, Python, frameworks, and more…)
 
-📌 About Me
+## 📌 About Me
 
 I love creating projects that look professional and work well. I'm a team player, I adapt quickly, and I enjoy learning new technologies. My goal is to continue growing as a developer and contribute real solutions.
 
-📊 GitHub Stats 
+## 📊 GitHub Stats 
 [My stats](https://github.com/Oayao08)
 
-⭐ My personal projects
+## ⭐ My personal projects
  -
  -
  -
  -
 
-👉Visit my academic projects:
-github.com/Oayao08
+## 👉Visit my academic projects:
+ - 
+ -
+ -
 
-📈 Activity and languages
+## 📈 Activity and languages
 
-⚡ Recent activity
+## ⚡ Recent activity
 (Ejemplos)
 
 💪 Opened PR #86192 on vercel/next.js
