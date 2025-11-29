@@ -25,18 +25,19 @@ I love creating projects that look professional and work well. I'm a team player
 [My stats](https://github.com/Oayao08)
 
 ## 👉Visit my academic projects:
- - [Montblanc S.A.](git@github.com:Oayao08/Montblanc-S.A..git)
-    - [Web](https://oayao08.github.io/Montblanc-S.A./)
- - [Miniprojecte2.2](git@github.com:Oayao08/Montblanc-S.A..git)
-    - [Web](https://oayao08.github.io/Miniprojecte2.2/)
+- [Montblanc S.A.](https://github.com/Oayao08/Montblanc-S.A.)
+  - [Web](https://oayao08.github.io/Montblanc-S.A./)
+- [Miniprojecte2.2](https://github.com/Oayao08/Montblanc-S.A.)
+  - [Web](https://oayao08.github.io/Miniprojecte2.2/)
 
 ## ⭐ My personal projects
- - [3D Game](git@github.com:Oayao08/3D_Game.git)
-    - [Web](https://oayao08.github.io/3D_Game/)
- - [Words game in German](git@github.com:Oayao08/Sprachkarten.git)
-    - [Web](https://oayao08.github.io/Sprachkarten/)
- - [RetroText](git@github.com:Oayao08/RetroText.git) (In process)
-    - [Web](https://oayao08.github.io/RetroText/)
+- [3D Game](https://github.com/Oayao08/3D_Game)
+  - [Web](https://oayao08.github.io/3D_Game/)
+- [Words game in German](https://github.com/Oayao08/Sprachkarten)
+  - [Web](https://oayao08.github.io/Sprachkarten/)
+- [RetroText](https://github.com/Oayao08/RetroText) (In process)
+  - [Web](https://oayao08.github.io/RetroText/)
+
 (...) See more more on mi profile
 
 ## ⚡ Recent activity
