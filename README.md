@@ -2,8 +2,9 @@
 
 ![Profile Banner](https://img.shields.io/badge/Junior_Developer-💻-blue)  
 🎓 Junior Developer | SMX Student  
-💡 Passionate about programming, web interfaces, and building functional, polished projects.
+💻 Passionate about programming, web interfaces, and creating functional and polished projects.
 
+🚀 **Always learning**, experimenting, and improving my skills to become an increasingly well-rounded developer.
 ---
 
 ## 🧰 Technologies & Skills
@@ -34,7 +35,7 @@ My goal is to keep growing as a developer and contribute **real solutions**.
 
 ## 📊 GitHub Stats
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oayao08&show_icons=true&theme=radical)  
+![Omar's GitHub stats](https://github.com/Oayao08)  
 
 ---
 
