@@ -56,14 +56,6 @@ Mi objetivo es seguir creciendo como desarrollador y aportar **soluciones reales
 
 ---
 
-## ⚡ Actividad Reciente
-
-* 💪 #1 abierto el 7 de abril por Oayao08
-* 💪 #2 abierto el 16 de abril por Oayao08
-* 💪 #1 abierto el 16 de abril por Oayao08
-
----
-
 ## 📫 Contacto
 
 * [LinkedIn](https://www.linkedin.com/in/omar-ayaou-151505323)
