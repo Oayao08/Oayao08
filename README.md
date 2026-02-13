@@ -1,77 +1,77 @@
-# Hey! I'm Omar 👋
+# ¡Hola! Soy Omar 👋
 
-![Profile Banner](https://img.shields.io/badge/Junior_Developer-💻-blue)  
-🎓 Junior Developer | SMX Student  
-💻 Passionate about programming, web interfaces, and creating functional and polished projects.
+![Profile Banner](https://img.shields.io/badge/Junior_Developer-💻-blue)
+🎓 Desarrollador Junior | Estudiante de SMX
+💻 Apasionado por la programación, las interfaces web y la creación de proyectos funcionales y bien pulidos.
 
-🚀 **Always learning**, experimenting, and improving my skills to become an increasingly well-rounded developer.
----
+## 🚀 **Siempre aprendiendo**, experimentando y mejorando mis habilidades para convertirme en un desarrollador cada vez más completo.
 
-## 🧰 Technologies & Skills
+## 🧰 Tecnologías y Habilidades
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-**Learning:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Aprendiendo:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-- 🌐 Web layouts, modern styles, responsive designs  
-- 🛠️ Creating clean and professional web pages  
-- 📦 Version control with Git & GitHub  
-- 🔧 Programming fundamentals and best practices  
-
----
-
-## 📌 About Me
-
-I love building projects that **look professional and work well**.  
-I adapt quickly, enjoy teamwork, and love learning new technologies.  
-My goal is to keep growing as a developer and contribute **real solutions**.  
+* 🌐 Maquetación web, estilos modernos y diseños responsivos
+* 🛠️ Creación de páginas web limpias y profesionales
+* 📦 Control de versiones con Git y GitHub
+* 🔧 Fundamentos de programación y buenas prácticas
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Sobre mí
 
-![Omar's GitHub stats](https://github.com/Oayao08)  
+Me encanta crear proyectos que **se vean profesionales y funcionen bien**.
+Me adapto rápido, disfruto del trabajo en equipo y me encanta aprender nuevas tecnologías.
+Mi objetivo es seguir creciendo como desarrollador y aportar **soluciones reales**.
 
 ---
 
-## 🚀 Academic Projects
+## 📊 Estadísticas de GitHub
 
-| Project | Web Demo |
-|---------|----------|
-| [Montblanc S.A.](https://github.com/Oayao08/Montblanc-S.A.) | [Web](https://oayao08.github.io/Montblanc-S.A./) |
+![Estadísticas de GitHub de Omar](https://github.com/Oayao08)
+
+---
+
+## 🚀 Proyectos Académicos
+
+| Proyecto                                                     | Demo Web                                          |
+| ------------------------------------------------------------ | ------------------------------------------------- |
+| [Montblanc S.A.](https://github.com/Oayao08/Montblanc-S.A.)  | [Web](https://oayao08.github.io/Montblanc-S.A./)  |
 | [Miniprojecte2.2](https://github.com/Oayao08/Montblanc-S.A.) | [Web](https://oayao08.github.io/Miniprojecte2.2/) |
 
 ---
 
-## ⭐ Personal Projects
+## ⭐ Proyectos Personales
 
-| Project | Description | Web Demo |
-|---------|-------------|----------|
-| [3D Game](https://github.com/Oayao08/3D_Game) | 3D game built with HTML/CSS/JS | [Web](https://oayao08.github.io/3D_Game/) |
-| [Words Game in German](https://github.com/Oayao08/Sprachkarten) | Learn German vocabulary interactively | [Web](https://oayao08.github.io/Sprachkarten/) |
-| [RetroText](https://github.com/Oayao08/RetroText) | In-progress project: retro text editor | [Web](https://oayao08.github.io/RetroText/) |
-
----
-
-## ⚡ Recent Activity
-
-- 💪 #1 opened on Apr 7 by Oayao08  
-- 💪 #2 opened on Apr 16 by Oayao08  
-- 💪 #1 opened on Apr 16 by Oayao08  
+| Proyecto                                                               | Descripción                                     | Demo Web                                       |
+| ---------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| [Juego 3D](https://github.com/Oayao08/3D_Game)                         | Juego 3D desarrollado con HTML/CSS/JS           | [Web](https://oayao08.github.io/3D_Game/)      |
+| [Juego de Palabras en Alemán](https://github.com/Oayao08/Sprachkarten) | Aprende vocabulario alemán de forma interactiva | [Web](https://oayao08.github.io/Sprachkarten/) |
+| [RetroText](https://github.com/Oayao08/RetroText)                      | Proyecto en progreso: editor de texto retro     | [Web](https://oayao08.github.io/RetroText/)    |
 
 ---
 
-## 📫 Contact Me
+## ⚡ Actividad Reciente
 
-- [LinkedIn](https://www.linkedin.com/in/omar-ayaou-151505323)  
-- [Portfolio / GitHub](https://github.com/Oayao08)  
+* 💪 #1 abierto el 7 de abril por Oayao08
+* 💪 #2 abierto el 16 de abril por Oayao08
+* 💪 #1 abierto el 16 de abril por Oayao08
 
 ---
 
-### 💡 Tip:  
-Follow me to see **new projects and learning experiences**! 🚀
+## 📫 Contacto
+
+* [LinkedIn](https://www.linkedin.com/in/omar-ayaou-151505323)
+* [Portafolio / GitHub](https://github.com/Oayao08)
+
+---
+
+### 💡 Consejo:
+
+¡Sígueme para ver **nuevos proyectos y experiencias de aprendizaje**! 🚀
