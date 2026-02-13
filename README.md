@@ -1,7 +1,6 @@
 # ¡Hola! Soy Omar 👋
 
-![Profile Banner](https://img.shields.io/badge/Junior_Developer-💻-blue)
-🎓 Desarrollador Junior | Estudiante de SMX
+Estudiante de SMX
 💻 Apasionado por la programación, las interfaces web y la creación de proyectos funcionales y bien pulidos.
 
 ## 🚀 **Siempre aprendiendo**, experimentando y mejorando mis habilidades para convertirme en un desarrollador cada vez más completo.
